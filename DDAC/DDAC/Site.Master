@@ -72,6 +72,7 @@
             <hr />
           
         </div>
+        <asp:Label ID="Label1" runat="server" Text="Accessed from Europe"></asp:Label>
 
     </form>
 </body>
